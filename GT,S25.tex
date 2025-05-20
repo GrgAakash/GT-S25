@@ -26,10 +26,12 @@
 \newtheorem{problem}[theorem]{Problem}
 
 
-\newcommand{\ch}[1]{\marginpar{
+\newcommand{\AK}[1]{\marginpar{
 	\begin{flushleft}{\color{red}\tiny #1}\end{flushleft}}}
-\newcommand{\ak}[1]{\marginpar{
+\newcommand{\RJ}[1]{\marginpar{
 \begin{flushleft}{\color{blue}\tiny #1}\end{flushleft}}}
+\newcommand{\BM}[1]{\marginpar{
+\begin{flushleft}{\color{green}\tiny #1}\end{flushleft}}}
 %\newcommand{\kc}[1]{{\color[rgb]{1,0,0}#1}}
 %\newcommand{\blue}[1]{{\color[rgb]{0,0,1}#1}}
 
@@ -65,7 +67,7 @@ $$(a^{-1})^n =  (a^n)^{-1}.$$
 \begin{proof}
 Let $P(n)$:$$(a_1 a_2 \cdots a_n)^{-1} = a_n^{-1} a_{n-1}^{-1} \cdots a_1^{-1},~~~~~ n\in \mathbb{N}$$\\
 
-\ch{Strategy: Involves $n \in \mathbb{N}$ so induction.}
+\AK{Strategy: Involves $n \in \mathbb{N}$ so induction.}
 
 $P(1)$: $(a_1)^{-1}=a_1^{-1}$ is true.\\
 
@@ -87,7 +89,7 @@ Then, we get $(a^n)^{-1}=(a^{-1})^n$
 \end{problem}
 \begin{proof}
     $x,y \in G \implies x^2y^2=e\implies xy=x^{-1}y^{-1}$\\
-    \ch{Strategy:Using the idea of $ab^{-1}=e\implies a=b$ along with the given information which is not there for no reason.$x^2=e\implies x=x^{-1}$ so we can definitely try leveraging this property.}
+    \AK{Strategy:Using the idea of $ab^{-1}=e\implies a=b$ along with the given information which is not there for no reason.$x^2=e\implies x=x^{-1}$ so we can definitely try leveraging this property.}
     Now,
     $(xy)(yx)^{-1}=(xy)(x^{-1}y^{-1})=(xy)(xy)=e \implies xy=yx$
 \end{proof}
@@ -113,7 +115,7 @@ $$
     \textbf{For $n$ being odd}, $\forall a_i \in G, \exists a_i ^{-1} \in G ,i \in \{1,..,n\}$. As the group is abelian and finite so only one element say $a_k \in G, k \in \{1,..,n\}$ remains. Now it is clear that $a_k=a_k^{-1}\implies a_k =e$ is the only possibility.\\
     Thus, $a_1...a_n=e$
     
-    \ch{Strategy:For P3 (i)~~Let's start with small cases??? For $Z_n$ when $n$ is odd, the evaluation yields $0$, when $n$ is even, the evaluation yields $1,2,3,...$ The even case also seems to have an element whose order is $2$ which violates the condition. The odd case doesn't.So the naive conjecture seems that the evaluation would yield the identity element.}
+    \AK{Strategy:For P3 (i)~~Let's start with small cases??? For $Z_n$ when $n$ is odd, the evaluation yields $0$, when $n$ is even, the evaluation yields $1,2,3,...$ The even case also seems to have an element whose order is $2$ which violates the condition. The odd case doesn't.So the naive conjecture seems that the evaluation would yield the identity element.}
     
     \textbf{For $n$ being even},
     as each element is distinct and each of their inverse is unique, so we get, for $e \in G, \exists a_k \in G, k\in \{1,..,n\}$ such that $e a_k =e \implies a_k =e$ but $e$ is unique so there is no group with order even satisfying the given conditions.\\
@@ -134,7 +136,7 @@ $1.2....(p-1)=1.(p-1)$
  $$(p-1)! = p-1 = -1 $$
  
 
- \ak{We ignore the repeated use of $\equiv (\mod p)$ as it is clear that we are working in $\mod p$ environment due to the way $U(p)$ is defined.} 
+ \AK{We ignore the repeated use of $\equiv (\mod p)$ as it is clear that we are working in $\mod p$ environment due to the way $U(p)$ is defined.} 
 
 
 
@@ -142,7 +144,7 @@ $1.2....(p-1)=1.(p-1)$
 
 
 \subsection{Homomorphisms}
-It really works huhh
+
 
 
 \section{\textbf{The Isomorphism Theorems}}
