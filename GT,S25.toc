@@ -1,0 +1,14 @@
+\contentsline {section}{\tocsection {}{1}{\textbf {Introduction}}}{1}{section.1}%
+\contentsline {section}{\tocsection {}{2}{\textbf {Groups and Homomorphism}}}{1}{section.2}%
+\contentsline {subsection}{\tocsubsection {}{2.1}{\text {Semigroups} $\oplus $ \text {Groups}}}{1}{subsection.2.1}%
+\contentsline {subsection}{\tocsubsection {}{2.2}{Homomorphisms}}{3}{subsection.2.2}%
+\contentsline {section}{\tocsection {}{3}{\textbf {The Isomorphism Theorems}}}{3}{section.3}%
+\contentsline {subsection}{\tocsubsection {}{3.1}{Subgroups}}{3}{subsection.3.1}%
+\contentsline {subsection}{\tocsubsection {}{3.2}{Lagrange's Theorem}}{3}{subsection.3.2}%
+\contentsline {subsection}{\tocsubsection {}{3.3}{Cyclic Subgroups}}{3}{subsection.3.3}%
+\contentsline {subsection}{\tocsubsection {}{3.4}{Normal Subgroups}}{3}{subsection.3.4}%
+\contentsline {subsection}{\tocsubsection {}{3.5}{Quotient Subgroups}}{3}{subsection.3.5}%
+\contentsline {subsection}{\tocsubsection {}{3.6}{The Isomorphism Theorems}}{3}{subsection.3.6}%
+\contentsline {subsection}{\tocsubsection {}{3.7}{Correspondence Theorem}}{3}{subsection.3.7}%
+\contentsline {subsection}{\tocsubsection {}{3.8}{Direct Product}}{3}{subsection.3.8}%
+\contentsline {section}{\tocsection {}{}{References}}{3}{section*.2}%
