@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2025.5.20)  20 MAY 2025 14:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2025.5.20)  20 MAY 2025 14:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -875,7 +875,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
 [2]
 
-Package rkeyval Warning: Unknown key: \bib'howpublished on input line 193.
+Package rkeyval Warning: Unknown key: \bib'howpublished on input line 195.
 
 [3] (./GT,S25.aux)
 
@@ -885,18 +885,18 @@ Package rerunfilecheck Info: File `GT,S25.out' has not changed.
 (rerunfilecheck)             Checksum: D08F031EAF4FFCBBAF2DF6AD376748A6;2309.
  ) 
 Here is how much of TeX's memory you used:
- 29551 strings out of 478268
- 556599 string characters out of 5846347
+ 29552 strings out of 478268
+ 556608 string characters out of 5846347
  882464 words of memory out of 5000000
  47069 multiletter control sequences out of 15000+600000
  477123 words of font info for 62 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  84i,7n,89p,3311b,701s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on GT,S25.pdf (3 pages, 232179 bytes).
+Output written on GT,S25.pdf (3 pages, 234415 bytes).
 PDF statistics:
- 211 PDF objects out of 1000 (max. 8388607)
- 164 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
+ 212 PDF objects out of 1000 (max. 8388607)
+ 165 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
  125 words of extra memory for PDF output out of 10000 (max. 10000000)
 
